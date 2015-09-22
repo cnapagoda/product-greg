@@ -37,9 +37,9 @@
     </licenses>
 
     <scm>
-        <url>https://github.com/wso2/product-greg.git</url>
-        <developerConnection>scm:git:https://github.com/wso2/product-greg.git</developerConnection>
-        <connection>scm:git:https://github.com/wso2/product-greg.git</connection>
+        <url>https://github.com/cnapagoda/product-greg.git</url>
+        <developerConnection>scm:git:https://github.com/cnapagoda/product-greg.git</developerConnection>
+        <connection>scm:git:https://github.com/cnapagoda/product-greg.git</connection>
         <tag>HEAD</tag>
     </scm>
 
